@@ -1,5 +1,5 @@
 Hello team, most of you already know some of these things but we've seen a pattern of bad code which mixes up different coding styles and most of it does not belong to the style convention of the language.
-Example (pep_8) in python. So here is a small guide python guide.
+Example (pep_8) in python. So here is a small python guide.
 
 
 Python Guide:
